@@ -1,0 +1,7 @@
+Software engineering is a concept in and of itself, but to better understand it, you need to know what each part of the term means before you can fully understand how they operate together. It can be difficult to understand, even though it does seem straightforward. That is because the pieces are more complicated than many believe - and working with software engineering for an application is difficult and time-consuming.
+
+Software engineering has two parts: software and engineering.
+
+Software is a collection of codes, documents, and triggers that does a specific job and fills a specific requirement.
+
+Engineering is the development of products using best practices, principles, and methods.
